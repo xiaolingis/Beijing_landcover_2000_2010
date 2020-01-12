@@ -1,0 +1,7 @@
+数值Value - 类型Type
+1 - 硬化地表 Artificial hardened surface
+2 - 农田 Farmland
+3 - 森林 Forestland
+4 - 草地 Grassland
+5 - 水域 Water
+6 - 荒地 Undevelopped land
